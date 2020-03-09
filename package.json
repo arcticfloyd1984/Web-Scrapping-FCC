@@ -1,0 +1,25 @@
+{
+  "name": "web-scrapping-fcc",
+  "version": "1.0.0",
+  "description": "In this project I'll be performing web scrapping via Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcticfloyd1984/Web-Scrapping-FCC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcticfloyd1984/Web-Scrapping-FCC/issues"
+  },
+  "homepage": "https://github.com/arcticfloyd1984/Web-Scrapping-FCC#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cli-table": "^0.3.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
